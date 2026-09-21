@@ -1,6 +1,8 @@
 # Quantum_tunneling_simulator
-Matlab Simulation of !D Quantum Wave packet Dynamics
+Matlab Simulation of 1D Quantum Wave packet Dynamics
+
 How to run:
+
 Download all files to a single folder.
 
 Open MATLAB.
